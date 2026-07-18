@@ -32,5 +32,6 @@ JAVA_HOME=/usr/local/jdk1.8.0_111
 export PATH=$JAVA_HOME/bin:$PATH
 java -jar HackOS.jar
 ```
+If it doesn't work and you know another way try that another way i am not that good on bash :(
 # Fun Fact
 I was trying to make Nokia S40 J2ME projects with JDK 8u111 and NetBeans 8.2 (I didn't know how to make J2ME projects before) and I failed, but I found out you had to download JDK 6 and Nokia SDK 2.0 with the Nokia IDE for Java ME V1 installed through the SDK's installer. I deleted the JDK 8u111 installer but forgot to delete Java 8u111 itself and NetBeans too, and that was great, since when I was about to make HackOS, I wanted classic UI, and I got it through JDK 8u111 and NetBeans, so I added that JDK to JAVA_HOME and set it up, and I was all set up to make HackOS!
