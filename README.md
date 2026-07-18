@@ -23,7 +23,7 @@ Run JAR's on Windows:
 Read instructions.txt in the zip
 
 Run JAR's on Linux:
-Run these commands in the terminal (Replace x64 with what architecture you have):
+Run these commands in the terminal (Replace x64 with what architecture you have (i586 is x86):
 ```bash
 cd ~/Downloads
 chmod +x jdk-8u111-nb-8_2-linux-x64.sh
