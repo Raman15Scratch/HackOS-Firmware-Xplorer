@@ -7,7 +7,8 @@ If you misunderstood, this tool is not for hacking, I do not support and I do no
 # About HackOS Firmware Xplorer
 This tool lets you explore through .bin files! You can use it for anything! Learning the structure of a firmware, trying to grab a file from it (for personal use) or trying to restore the alternate startup screen of a Canon PowerShot camera after accidentally deleting it (The whole reason this app exists).
 
-# Download: Download the JDK 8u111 build that I used https://archive.org/details/jdk-8u111-nb-8_2 , you do not need to install NetBeans, but if you are using the source code then feel free to download NetBeans!
+# Download
+Download the JDK 8u111 build that I used https://archive.org/details/jdk-8u111-nb-8_2 , you do not need to install NetBeans, but if you are using the source code then feel free to download NetBeans!
 You download HackOS and it's source code by clicking Code and download all the stuff as a zip.
 
 # Fun Fact
