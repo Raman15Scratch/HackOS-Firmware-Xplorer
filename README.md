@@ -2,7 +2,7 @@
 WARNING! You need JDK 8u111 to run this. The web version is released! Press the GitHub pages link under the description. Android version coming soon! Probably August 10 or 11
 
 # Disclaimer
-If you misunderstood, this tool is not for hacking, I do not support and I do not endorse hacking. The reason it's called HackOS is for it to sound cool.
+If you misunderstood, this tool is not for hacking, I do not support and I do not endorse hacking. The reason it's called HackOS is for it to sound cool, and also because back then hacking meant modding.
 
 # About HackOS Firmware Xplorer
 This tool lets you explore through .bin files! You can use it for anything! Learning the structure of a firmware, trying to grab a file from it (for personal use) or trying to restore the alternate startup screen of a Canon PowerShot camera after accidentally deleting it (The whole reason this app exists).
