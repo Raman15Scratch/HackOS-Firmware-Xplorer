@@ -1,5 +1,5 @@
 # HackOS Firmware Xplorer
-WARNING! You need JDK 8u111 to run this. Btw upcoming android and web version is coming soon.
+WARNING! You need JDK 8u111 to run this. The web version is released! Press the GitHub pages link under the description. Android version coming soon! Probably August 10 or 11
 
 # Disclaimer
 If you misunderstood, this tool is not for hacking, I do not support and I do not endorse hacking. The reason it's called HackOS is for it to sound cool.
